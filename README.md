@@ -1,11 +1,11 @@
-# Project 63: Temple Run Educational Game: Knowledge Obstacles
+# Project 63: Endless Runner Educational Game
 
 **Category:** Educational Gaming
 **Part of:** AutoMatrixLab
 
 ## Overview
 
-An educational game modelled on Temple Run where questions serve as obstacles.
+An endless-runner game where questions serve as obstacles.
 
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Game Engine, Mobile, Leaderboard System
 
 ## Demo
 
-[![Temple Run Educational Game: Knowledge Obstacles](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-63-temple-run-educational-game-knowledge-obstacles.jpg)](https://automatrixlab.com/projects/project-63-temple-run-educational-game-knowledge-obstacles/)
+[![Endless Runner Educational Game](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-63-temple-run-educational-game-knowledge-obstacles.jpg)](https://automatrixlab.com/projects/project-63-temple-run-educational-game-knowledge-obstacles/)
 
 🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/63.mp4
 
